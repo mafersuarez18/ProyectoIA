@@ -47,6 +47,7 @@ export class PredictionController {
     }
   }
 
+  //logica para probar sin api + recomendaciones
   private simulatePrediction(data: PatientData): PredictionResult {
     let riskScore = 20;
 

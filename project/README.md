@@ -1,9 +1,3 @@
-# WebApp de Predicción de Riesgo de Cáncer
-
-Sistema de evaluación clínica desarrollado con arquitectura **Model-View-Controller (MVC)** para calcular el riesgo de desarrollo de cáncer basado en factores médicos y de estilo de vida.
-
----
-
 ##  Cómo Ejecutar el Sistema
 
 ### Requisitos Previos
@@ -118,14 +112,6 @@ npm run lint
 
 ---
 
-##  Nota Importante
-
-Este es un **prototipo con fines educativos y de demostración**. La predicción de riesgo es una simulación basada en factores conocidos, pero **NO constituye un diagnóstico médico real**.
-
-**Siempre consulte con un profesional médico calificado** para evaluaciones de salud.
-
----
-
 ##  Solución de Problemas
 
 ### Error: "command not found: npm"
@@ -144,10 +130,5 @@ Este es un **prototipo con fines educativos y de demostración**. La predicción
 
 ---
 
-##  Soporte
-
-Para reportar problemas o sugerencias, contacta al equipo de desarrollo o abre un issue en el repositorio de GitHub.
-
----
 
 
